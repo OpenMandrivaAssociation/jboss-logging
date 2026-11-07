@@ -1,2 +1,4 @@
-sources:
+removed_sources:
   "3.1.3.GA.tar.gz": a59d8d5cca5122b0ae947dbd736cd369b9f997fd
+sources:
+  jboss-logging-3.6.3.Final.tar.gz: dcac7b66ba3c77250769690e0a3b8b82a1b55049
